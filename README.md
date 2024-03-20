@@ -12,7 +12,7 @@ The aim of this project is to implement a machine learning solution that can pre
 
 The dataset consists of 1460 observations with 38 numerical variables and 43 categorical variables. It includes features such as LotFrontage, LotArea, OverallQual, OverallCond, YearBuilt, and numerous others, providing comprehensive insights into the properties' attributes.
 
-### Steps:
+## Steps:
 
 1. **Exploratory Data Analysis (EDA):**
     - **Reading and Merging Datasets:** The training and testing datasets are read and merged for comprehensive analysis.
