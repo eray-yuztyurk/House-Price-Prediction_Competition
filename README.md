@@ -1,4 +1,4 @@
-**House Price Prediction**
+**House Price Prediction - Competition**
 
 **Overview:**
 
